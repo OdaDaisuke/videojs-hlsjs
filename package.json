@@ -6,6 +6,7 @@
       "type": "git",
       "url": "https://github.com/SRGSSR/videojs-hlsjs.git"
   },
+  "main": "./dist/videojs-hlsjs.min.js",
   "keywords": ["videojs", "videojs-plugin", "hls", "hls.js" ],
   "license": "MIT",
   "author": "SRGSSR",
